@@ -2,10 +2,10 @@
   "ads": {
     "id_app": "",
     "flury_id": "",
-    "banner_setting": "tzhehe",
-    "inter_setting": "tzhehe",
-    "banner_main": "tzhehe",
-    "inter_main": "tzhehe",
+    "banner_setting": "r8iq7naoip",
+    "inter_setting": "f828cr5w50",
+    "banner_main": "c4amwahyci",
+    "inter_main": "f47u2gwlju",
     "banner_setting_new" : "tzhehe",
     "inter_setting_new" : "tzhehe",
     "banner_main_new" : "tzhehe",
@@ -23,7 +23,7 @@
    "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false
+    "isShowAds": true
   },
   "apps": [
    {
